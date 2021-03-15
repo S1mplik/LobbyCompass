@@ -1,0 +1,7 @@
+name: Lobbycompas
+version: ${project.version}
+main: danix25.lobbycompas.LobbyCompass
+commands:
+  lobbycompass:
+    description: Navigation Compass
+    usage: /lobbycompass
